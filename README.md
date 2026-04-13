@@ -1,84 +1,110 @@
-<h1 align="center">Hi there 👋, I'm Abdullah</h1>
-<h3 align="center">Data Analyst | Power BI Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h3 align="center">🚀 Data Analyst | Power BI Developer</h3>
+
+<p align="center">
+  Turning raw data into meaningful insights 📊
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 📊 Passionate Data Analyst with strong skills in data cleaning, modeling, and visualization  
-- 📈 Specialized in building interactive dashboards using Power BI  
-- 🧠 Strong understanding of business insights and decision-making  
-- 🚀 Currently improving my skills in advanced analytics and real-world projects  
+I'm a Data Analyst passionate about transforming complex data into clear, actionable insights.
 
----
-
-## 🛠️ Skills
-
-### 📊 Data Analysis
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Data Modeling (Star Schema)
-
-### 📈 Data Visualization
-- Power BI Dashboards
-- Interactive Reports
-- KPI Tracking
-- Business Insights
-
-### 💻 Technical Skills
-- SQL
-- DAX
-- Excel (Advanced)
-- Python (Basics)
+- 📊 Strong experience in **Data Analysis & Visualization**
+- 🏗️ Skilled in building **Star Schema Data Models**
+- 📈 Expert in **Power BI dashboards & DAX**
+- 🎯 Focused on solving real business problems using data
+- 🚀 Currently working on real-world analytics projects
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚡ Tech Stack
 
+### 📊 Data & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Power BI  
-- Excel  
-- SQL Server  
+- Power BI (Advanced)
+- DAX (Measures, Time Intelligence)
+- Data Modeling (Star Schema / Snowflake)
+- Data Cleaning & Transformation
 
 ---
 
-## 📂 Featured Projects
-
-### 📌 Sales Dashboard
-- Built an interactive Power BI dashboard to analyze sales performance  
-- Applied data cleaning and transformation  
-- Created DAX measures for KPIs  
-- Provided insights for business decisions  
-
-🔗 [View Project](#)
+### 🛢️ Databases
+- SQL (Joins, CTEs, Window Functions)
+- SQL Server
 
 ---
 
-### 📌 HR Analytics Dashboard
-- Analyzed employee data to track attrition and performance  
-- Used Power BI for visualization  
-- Delivered actionable insights  
-
-🔗 [View Project](#)
+### 📈 Visualization & Reporting
+- Interactive Dashboards
+- KPI Design
+- Storytelling with Data
+- Business Insights & Decision Support
 
 ---
 
-## 📈 GitHub Activity Overview
+### 🧰 Tools
+- Excel (Power Query, Pivot Tables)
+- Git & GitHub
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 Sales Performance Dashboard
+✔️ Built end-to-end dashboard using Power BI  
+✔️ Applied data cleaning & transformation  
+✔️ Designed KPIs for revenue, growth & performance  
+✔️ Used DAX for advanced calculations  
+
+📸 Preview:  
+![Dashboard](PUT_IMAGE_LINK_HERE)
+
+🔗 [View Project](PUT_PROJECT_LINK)
+
+---
+
+### 🔹 HR Analytics Dashboard
+✔️ Analyzed employee attrition & performance  
+✔️ Built interactive filters & drill-downs  
+✔️ Delivered insights for HR decision-making  
+
+📸 Preview:  
+![Dashboard](PUT_IMAGE_LINK_HERE)
+
+🔗 [View Project](PUT_PROJECT_LINK)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoElsayed2001&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed2001&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoElsayed2001&theme=tokyonight" />
 </p>
 
 ---
 
-## 📬 Contact Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:abdullahelsayed523@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-elsayed-1a8958190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://wa.me/201091046720"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="PUT_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:PUT_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 💡 Quote
+
+> "Without data, you're just another person with an opinion." – W. Edwards Deming
