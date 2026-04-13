@@ -1,110 +1,130 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">🚀 Data Analyst | Power BI Developer</h3>
+<!-- HEADER -->
+<h1 align="center">Abdullah Elsayed</h1>
+<h3 align="center">Data Analyst | Power BI Developer</h3>
 
 <p align="center">
-  Turning raw data into meaningful insights 📊
+  <img src="https://img.shields.io/badge/Data%20Driven-Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-green?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 Who Am I?
 
-I'm a Data Analyst passionate about transforming complex data into clear, actionable insights.
+I’m a Data Analyst focused on turning raw data into **clear insights and business value**.
 
-- 📊 Strong experience in **Data Analysis & Visualization**
-- 🏗️ Skilled in building **Star Schema Data Models**
-- 📈 Expert in **Power BI dashboards & DAX**
-- 🎯 Focused on solving real business problems using data
-- 🚀 Currently working on real-world analytics projects
+I don’t just build dashboards — I solve problems.
+
+- 📊 Transform messy data into structured models  
+- 📈 Build decision-ready dashboards  
+- 🧠 Deliver insights that impact real business decisions  
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 Core Expertise
 
-### 📊 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Power BI (Advanced)
-- DAX (Measures, Time Intelligence)
-- Data Modeling (Star Schema / Snowflake)
+🔹 **Data Analysis**
+- Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
+- Business Insight Extraction  
+
+🔹 **Data Modeling**
+- Star Schema (Fact & Dimension Design)
+- Data Relationships Optimization  
+
+🔹 **Power BI**
+- Advanced DAX (CALCULATE, FILTER, Time Intelligence)
+- Dynamic Dashboards
+- Drill-down & Interactive Reports  
+
+🔹 **SQL**
+- Complex Queries
+- Joins / CTEs / Window Functions  
 
 ---
 
-### 🛢️ Databases
-- SQL (Joins, CTEs, Window Functions)
-- SQL Server
-
----
-
-### 📈 Visualization & Reporting
-- Interactive Dashboards
-- KPI Design
-- Storytelling with Data
-- Business Insights & Decision Support
-
----
-
-### 🧰 Tools
-- Excel (Power Query, Pivot Tables)
-- Git & GitHub
-
----
-
-## 🏆 Featured Projects
-
-### 🔹 Sales Performance Dashboard
-✔️ Built end-to-end dashboard using Power BI  
-✔️ Applied data cleaning & transformation  
-✔️ Designed KPIs for revenue, growth & performance  
-✔️ Used DAX for advanced calculations  
-
-📸 Preview:  
-![Dashboard](PUT_IMAGE_LINK_HERE)
-
-🔗 [View Project](PUT_PROJECT_LINK)
-
----
-
-### 🔹 HR Analytics Dashboard
-✔️ Analyzed employee attrition & performance  
-✔️ Built interactive filters & drill-downs  
-✔️ Delivered insights for HR decision-making  
-
-📸 Preview:  
-![Dashboard](PUT_IMAGE_LINK_HERE)
-
-🔗 [View Project](PUT_PROJECT_LINK)
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed2001&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoElsayed2001&theme=tokyonight" />
+  Power BI • SQL Server • Excel • Power Query • DAX
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Work
+
+### 🟢 E-Commerce Sales Dashboard
+
+📌 **Problem**  
+Businesses struggle to track performance across regions and products.
+
+📌 **Solution**  
+Built an interactive dashboard to analyze:
+- Revenue trends  
+- Top-performing categories  
+- Regional performance  
+
+📌 **Impact**  
+✔️ Identified high-performing segments  
+✔️ Enabled better decision-making  
+
+📸  
+![Dashboard](PUT_IMAGE_LINK)
+
+🔗 [View Project](PUT_LINK)
+
+---
+
+### 🔵 HR Analytics Dashboard
+
+📌 **Problem**  
+HR teams lack visibility into employee attrition.
+
+📌 **Solution**  
+- Built dashboard analyzing employee behavior  
+- Added filters for deep insights  
+
+📌 **Impact**  
+✔️ Helped identify attrition patterns  
+✔️ Supported HR strategy decisions  
+
+📸  
+![Dashboard](PUT_IMAGE_LINK)
+
+🔗 [View Project](PUT_LINK)
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed2001&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoElsayed2001&theme=default" />
+</p>
+
+---
+
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="PUT_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
   </a>
   <a href="mailto:PUT_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 💡 Quote
+## 💡 Personal Philosophy
 
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
+> Data is not numbers — it's decisions waiting to be made.
