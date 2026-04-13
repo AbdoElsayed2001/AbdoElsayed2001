@@ -1,50 +1,76 @@
-<h1 align="center">👋 Hi there, I'm Abdullah</h1>
-<h3 align="center">Flutter Developer</h3>
+<h1 align="center">Hi there 👋, I'm Abdullah</h1>
+<h3 align="center">Data Analyst | Power BI Developer</h3>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Flutter Developer** who loves building beautiful, clean, and functional mobile applications.  
-I focus on writing scalable code using **MVVM architecture**, and I enjoy crafting smooth user experiences with attention to detail.  
-Always learning, always building.
+- 📊 Passionate Data Analyst with strong skills in data cleaning, modeling, and visualization  
+- 📈 Specialized in building interactive dashboards using Power BI  
+- 🧠 Strong understanding of business insights and decision-making  
+- 🚀 Currently improving my skills in advanced analytics and real-world projects  
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+### 📊 Data Analysis
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Data Modeling (Star Schema)
+
+### 📈 Data Visualization
+- Power BI Dashboards
+- Interactive Reports
+- KPI Tracking
+- Business Insights
+
+### 💻 Technical Skills
+- SQL
+- DAX
+- Excel (Advanced)
+- Python (Basics)
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github" />
 </p>
 
----
-
-## 📌 Highlights
-
-- 🔹 Solid understanding of **Flutter best practices** and **clean architecture (MVVM)**  
-- 🔹 Experience with **local storage** solutions like SQLite  
-- 🔹 Familiarity with **Firebase services** (Auth, Firestore, etc.)  
-- 🔹 Able to work with **REST APIs**, JSON, and async programming  
-- 🔹 Comfortable with **state management tools** like **Bloc** and **Provider**  
-- 🔹 Used **Google Maps API** in multiple Flutter projects  
-- 🔹 Always eager to learn and improve  
+- Power BI  
+- Excel  
+- SQL Server  
 
 ---
 
-## 🛠️ Tools I Use
+## 📂 Featured Projects
+
+### 📌 Sales Dashboard
+- Built an interactive Power BI dashboard to analyze sales performance  
+- Applied data cleaning and transformation  
+- Created DAX measures for KPIs  
+- Provided insights for business decisions  
+
+🔗 [View Project](#)
+
+---
+
+### 📌 HR Analytics Dashboard
+- Analyzed employee data to track attrition and performance  
+- Used Power BI for visualization  
+- Delivered actionable insights  
+
+🔗 [View Project](#)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed2001&show_icons=true&theme=radical" />
 </p>
 
 ---
