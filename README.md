@@ -34,7 +34,7 @@ I enjoy working on real-world datasets, building dashboards, and telling stories
 <img src="https://img.icons8.com/color/96/tableau-software.png" width="60"/>
 
 <!-- SQL -->
-<img src="https://img.icons8.com/ios-filled/100/sql.png" width="60"/>
+<img src="https://img.icons8.com/sql.png" width="60"/>
 
 <!-- Python -->
 <img src="https://img.icons8.com/color/96/python.png" width="60"/>
@@ -73,7 +73,6 @@ I enjoy working on real-world datasets, building dashboards, and telling stories
 ## 📬 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/abdullah-elsayed5
-- GitHub: https://github.com/AbdoElsayed2001  
 - Email: abdullahelsayed523@gmail.com  
 
 ---
